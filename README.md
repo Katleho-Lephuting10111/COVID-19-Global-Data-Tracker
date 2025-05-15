@@ -147,3 +147,25 @@ By the end, you will have a well-documented data report suitable for presentatio
 
 ## 📁 Folder Structure (Example)
 
+
+---
+
+## 📊 Sample Insights
+
+- 📈 Country X experienced the highest spike in cases in May 2021.
+- 💉 Country Y achieved 70% vaccination coverage by early 2022.
+- ⚠️ Some countries showed inconsistent data reporting during certain periods.
+
+---
+
+## ✅ Getting Started
+
+1. Clone this repository
+2. Install required Python packages (`pip install -r requirements.txt`)
+3. Run the analysis notebook in Jupyter
+
+---
+
+Feel free to fork, customize, or expand this project. Happy coding and analyzing! 🧪📉🌍
+
+
